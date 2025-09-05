@@ -1,2 +1,2 @@
-# kotlin_course
+# kotlin_lesson
 Kotlin course trainee
